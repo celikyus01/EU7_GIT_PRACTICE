@@ -10,6 +10,7 @@ public class practice1 {
     //something6
     //something7
     //something 8
+    lokman
     //something 9
 
 }
