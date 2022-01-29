@@ -4,6 +4,10 @@ public class practice1 {
         System.out.println("apple");
     }
     //something
-    //something 4
-    //something8
+    //something 2
+    //something 5
+    //something6
+    //something7
+    //something 8
+
 }
