@@ -4,4 +4,5 @@ public class practice1 {
         System.out.println("apple");
     }
     //something
+    //something 2
 }
