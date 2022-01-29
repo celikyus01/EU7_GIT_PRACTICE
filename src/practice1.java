@@ -5,8 +5,12 @@ public class practice1 {
     }
     //something
     //something 2
-    //something 5
+    //something 55
+    //something 66
     //something6
     //something7
+    //something 8
+    lokman
+    //something 9
 
 }
