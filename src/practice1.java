@@ -12,5 +12,5 @@ public class practice1 {
     //something 8
     lokman
     //something 9
-
+    //someyhing 10
 }
