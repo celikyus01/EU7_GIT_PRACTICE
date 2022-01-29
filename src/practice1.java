@@ -7,4 +7,5 @@ public class practice1 {
     //something 2
     //something 5
     //something6
+
 }
