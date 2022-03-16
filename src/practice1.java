@@ -13,5 +13,8 @@ public class practice1 {
     lokman
     //something 9
     //someyhing 10
-      //  ]/shjdshsud
+
+        sdjshd
+        ]skjdfjx
+
 }
